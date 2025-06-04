@@ -18,5 +18,5 @@ A responsive front-end clone of the Netflix homepage built using **HTML**, **CSS
 
 ## 🚀 How to Use
 
-https://github.com/your-username/netflix-clone.git
+https://github.com/hv05/NETFLIX-CLONE.git
 
