@@ -207,9 +207,9 @@ body {
         opacity: 0;
         transition: opacity 0.3s ease;
         flex-direction: column;
-        justify-content: space-between;
-        padding: 15px;
-        color: white;
+        justify-content: space-around ;
+        padding: 25px;
+        color: black;
 }
 .content-card:hover .card-overlay {
     opacity: 1;
